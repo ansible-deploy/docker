@@ -1,3 +1,0 @@
-scm-api:latest
-git:latest
-greenballs:latest
